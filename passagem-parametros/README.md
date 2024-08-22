@@ -19,6 +19,6 @@ Exemplo: se o vetor for [1, 2, 3, 4, 5, 3, 6, 7, 2, 8], o retorno será 2 (2 nú
 ```
 
 ```
-Escreva uma função que receba uma matriz A 5x3, uma matriz B 3x4, e retorne por referência uma 
+4 - Escreva uma função que receba uma matriz A 5x3, uma matriz B 3x4, e retorne por referência uma 
 matriz 5x4 correspondente à multiplicação das outras duas.
 ```
